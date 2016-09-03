@@ -1,4 +1,3 @@
-layout_spectrum: 0.6797607997432351
 typography_spectrum: 0.026488567236810923
 color:
   brandStrength: 0.5132190911099315
@@ -6,9 +5,16 @@ color:
   saturation: 0.57475735549815
   rhythmicContrast: 0.8640277297236025
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.6797607997432351
+author:
+  name: T&M Scroggs
+  email: us@hnycmbcreative.com
+  url: hnycmbcreative.com
 name: with wonder
+title: it how you see the world that makes the difference
+description: it's how you see the world that makes the difference.
